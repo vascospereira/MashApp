@@ -1,0 +1,6 @@
+feedparser
+
+Flask
+
+Flask-JSGlue
+
